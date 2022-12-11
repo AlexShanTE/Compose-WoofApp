@@ -17,5 +17,5 @@ age, and favorite activity.
 ## Stack
 
 + Kotlin
-+ Coroutines
++ Compose
 + Material design
